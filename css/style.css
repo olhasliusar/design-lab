@@ -104,6 +104,9 @@ textarea {
 	color: #FFF;
 	margin: 0 0 20px;
 }
+.ba-header__text{
+	text-transform: uppercase;
+}
 .ba-header__inner{
 	width: 99%;
 }
